@@ -2,8 +2,8 @@
 Textures
 <!DOCTYPE html>
 <html>
-  ![grass](https://user-images.githubusercontent.com/86419683/123298019-64ae2d80-d518-11eb-8189-ad245d4a52b2.jpg)
-![wood](https://user-images.githubusercontent.com/86419683/123298052-6b3ca500-d518-11eb-87d1-9591d41778c2.jpg)
+  [grass](https://user-images.githubusercontent.com/86419683/123298019-64ae2d80-d518-11eb-8189-ad245d4a52b2.jpg)
+  [wood](https://user-images.githubusercontent.com/86419683/123298052-6b3ca500-d518-11eb-87d1-9591d41778c2.jpg)
 
   <head>
     <meta charset="utf-8">
