@@ -14,7 +14,7 @@ Textures
   <body>
     <a-scene background="color: #333333">
       <a-assets>
-          <img id="wood" src="https://user-images.githubusercontent.com/86419683/123299234-983d8780-d519-11eb-97c0-ae1577c280ae.jpg" />   
+          <img id="wood" src="(https://user-images.githubusercontent.com/86419683/123299234-983d8780-d519-11eb-97c0-ae1577c280ae.jpg)" />   
       </a-assets>
       <a-box id="myBox" 
         position="0 1 -3" 
