@@ -1,7 +1,7 @@
 # Opdracht3
 Textures
-![grass](https://user-images.githubusercontent.com/86419683/123298548-e30acf80-d518-11eb-961e-da010f751757.jpg)
-![wood](https://user-images.githubusercontent.com/86419683/123298560-e7cf8380-d518-11eb-8079-b70b8f9ef36f.jpg)
+[Workshop_files_begin 2.zip](https://github.com/lotteeymann/Opdracht3/files/6710733/Workshop_files_begin.2.zip)
+
 
 
 <!DOCTYPE html>
