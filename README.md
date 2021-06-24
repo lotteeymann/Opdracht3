@@ -1,6 +1,7 @@
 # Opdracht3
 Textures
 
+![wood](https://user-images.githubusercontent.com/86419683/123301160-a12f5880-d51b-11eb-8a84-890c95dfa587.jpg)
 
 <!DOCTYPE html>
 <html>
