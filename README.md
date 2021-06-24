@@ -3,6 +3,7 @@ Textures
 
 ![wood](https://user-images.githubusercontent.com/86419683/123301160-a12f5880-d51b-11eb-8a84-890c95dfa587.jpg)
 
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -15,7 +16,8 @@ Textures
   <body>
     <a-scene background="color: #333333">
       <a-assets>
-          <img id="wood" src="wood.jpg" />   
+          <img id="wood" src="wood.jpg" />
+          <img id="grass" src="grass.jpg"/>
       </a-assets>
       <a-box id="myBox" 
         position="0 1 -3" 
@@ -32,6 +34,7 @@ Textures
         width="100" 
         height="100" 
         color="#7BC8A4" 
+        material="src:#grass"
         shadow>
       </a-plane> 
     </a-scene>
