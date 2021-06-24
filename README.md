@@ -14,7 +14,7 @@ Textures
   <body>
     <a-scene background="color: #333333">
       <a-assets>
-          <img id="wood" src="images/wood.jpg" />   
+          <img id="wood" src="wood.jpg" />   
       </a-assets>
       <a-box id="myBox" 
         position="0 1 -3" 
